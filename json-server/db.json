@@ -1,0 +1,24 @@
+{
+    "products": [
+      {"id": 1, "name": "Pizza Chicken Teriyaki", "price": 112000},
+      {"id": 2, "name": "Burger Deluxe", "price": 95000},
+      {"id": 3, "name": "Salad Caesar", "price": 75000},
+      {"id": 4, "name": "Sushi Combo", "price": 145000},
+      {"id": 5, "name": "Spaghetti Carbonara", "price": 105000},
+      {"id": 6, "name": "Milkshake Chocolate", "price": 55000},
+      {"id": 7, "name": "Taco Supreme", "price": 85000},
+      {"id": 8, "name": "Pho Ga", "price": 80000},
+      {"id": 9, "name": "Chicken Shawarma", "price": 90000},
+      {"id": 10, "name": "Sushi Sashimi", "price": 165000},
+      {"id": 11, "name": "Hamburger Classic", "price": 80000},
+      {"id": 12, "name": "Caesar Wrap", "price": 85000},
+      {"id": 13, "name": "Chicken Tenders", "price": 75000},
+      {"id": 14, "name": "Fried Rice", "price": 90000},
+      {"id": 15, "name": "BBQ Ribs", "price": 120000},
+      {"id": 16, "name": "Fish and Chips", "price": 95000},
+      {"id": 17, "name": "Veggie Burrito", "price": 85000},
+      {"id": 18, "name": "Pasta Alfredo", "price": 105000},
+      {"id": 19, "name": "Chicken Quesadilla", "price": 90000},
+      {"id": 20, "name": "Sushi Nigiri", "price": 155000}
+    ]
+  }
