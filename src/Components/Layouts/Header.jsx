@@ -7,8 +7,6 @@ import "./HeaderStyle.scss";
 import SliderShow from "../Action/SliderShow";
 function Header() {
   const { t, i18n } = useTranslation();
-  const currentLanguage = locales[i18n.language];
-  console.log(currentLanguage);
 
   const changeLanguage = (lng) => {
     if (lng === "en" || lng === "vi") {
